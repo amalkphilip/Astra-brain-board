@@ -1,0 +1,5 @@
+
+{
+  "name": "Tech Snakes & Ladders",
+  "description": "A web application that displays tech-themed challenges for a real-life Snakes and Ladders game. Players landing on a snake or ladder must complete a corresponding task from the list."
+}
