@@ -36,7 +36,7 @@ export const LADDER_TASKS: Task[] = [
     id: 6,
     title: 'Speed Run',
     description: 'Exercise of a typing test into an engaging and challenging experience, where improving one’s typing skills is framed as winning a battle.',
-    link: 'https://www.edclub.com/sportal/program-3/3079.play'
+    link: 'https://www.edclub.com/sportal/program-3/3093.play'
   },
 ];
 
